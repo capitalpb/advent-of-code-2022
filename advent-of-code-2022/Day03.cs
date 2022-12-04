@@ -1,5 +1,4 @@
-﻿using advent_of_code_2022.Extensions;
-using AoCHelper;
+﻿using AoCHelper;
 
 namespace advent_of_code_2022
 {
