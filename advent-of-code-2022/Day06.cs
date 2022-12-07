@@ -1,11 +1,11 @@
 ﻿using AoCHelper;
-using System.Reflection.PortableExecutable;
 
 namespace advent_of_code_2022;
 
 public class Day06 : BaseDay
 {
     private readonly string dataStream;
+
     public Day06()
     {
         dataStream = File.ReadAllText(InputFilePath).TrimEnd();
